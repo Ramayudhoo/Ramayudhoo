@@ -55,13 +55,6 @@ Deepening my skills in TypeScript, React, and full stack development best practi
 | **[POS-RentEbike](https://github.com/Ramayudhoo/POS-RentEbike)** | Mobile POS app for e-bike rentals | React Native, Firebase |
 | **[Creator Analytics](https://github.com/Ramayudhoo/Creator-analytics)** | Analytics companion app for Circle App | React Native, Expo |
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramayudhoo&show_icons=true&theme=default" height="165" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramayudhoo" height="165" alt="github streak" />
-</div>
-
 ### 🌱 Future Goals
 
 Always exploring new technologies and ready for the next step in my career as a Full Stack Developer — open to opportunities where I can contribute and keep growing.
