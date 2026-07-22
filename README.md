@@ -4,6 +4,14 @@
 
 I build end-to-end web and mobile applications — from database design and REST APIs to intuitive user interfaces. Currently strengthening my full stack expertise through the DumbWays Full Stack Web Development Bootcamp.
 
+### 👨‍💻 About Me
+
+- 🎓 Bachelor's Degree in Information Systems, Gunadarma University
+- 💻 Currently learning full stack development at DumbWays Bootcamp
+- 🔭 Currently building projects with React, Next.js, and Express.js
+- 🌱 Passionate about turning ideas into functional, user-friendly applications
+- 📫 Reach me at **yudoyono67@gmail.com**
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
@@ -30,15 +38,33 @@ I build end-to-end web and mobile applications — from database design and REST
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
+### 💼 Experience
+
+**Internship — DumbWays** *(Jun 2026 – Aug 2026)*
+Developed an e-commerce application with Midtrans payment gateway integration, and built Weekly Meal Planner, an AI-powered app that generates 7-day meal plans automatically.
+
+**Full Stack Web Development Bootcamp — DumbWays** *(Mar 2026 – Present)*
+Deepening my skills in TypeScript, React, and full stack development best practices.
+
 ### 🔥 Featured Projects
 
-- **[Circle App](https://github.com/Ramayudhoo/CircleApp)** — Full-stack social media app with real-time notifications, built with Express.js, Prisma, PostgreSQL, and React
-- **[Portfolio](https://github.com/Ramayudhoo/Portfolio-new-)** — My personal portfolio site, built with Next.js and Tailwind CSS
-- **[POS-RentEbike](https://github.com/Ramayudhoo/POS-RentEbike)** — Mobile Point of Sale app for e-bike rentals, built with React Native and Firebase
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Circle App](https://github.com/Ramayudhoo/CircleApp)** | Full-stack social media app with real-time notifications | Express.js, Prisma, PostgreSQL, React, Socket.io |
+| **[Portfolio](https://github.com/Ramayudhoo/Portfolio-new-)** | Personal portfolio website | Next.js, TypeScript, Tailwind CSS |
+| **[POS-RentEbike](https://github.com/Ramayudhoo/POS-RentEbike)** | Mobile POS app for e-bike rentals | React Native, Firebase |
+| **[Creator Analytics](https://github.com/Ramayudhoo/Creator-analytics)** | Analytics companion app for Circle App | React Native, Expo |
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramayudhoo&show_icons=true&theme=default" height="165" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramayudhoo" height="165" alt="github streak" />
+</div>
 
 ### 🌱 Future Goals
 
-Always exploring new technologies and ready for the next step in my career as a Full Stack Developer.
+Always exploring new technologies and ready for the next step in my career as a Full Stack Developer — open to opportunities where I can contribute and keep growing.
 
 ---
 
